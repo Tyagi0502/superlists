@@ -2,3 +2,5 @@ db.sqlite3
 superlists/__pycache__/
 *pyc
 geckodriver.log
+.DS_Store
+.idea
