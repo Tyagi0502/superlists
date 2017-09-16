@@ -4,3 +4,4 @@ superlists/__pycache__/
 geckodriver.log
 .DS_Store
 .idea
+lists/__init__.sublime-workspace
